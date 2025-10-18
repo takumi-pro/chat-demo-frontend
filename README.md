@@ -2,6 +2,9 @@
 
 chat-demo-backendに対応するReactフロントエンドアプリケーションです。
 
+※追記
+- ほとんどのコードをclaude codeが生成しています
+
 ## 技術スタック
 
 - **React 18** - UIライブラリ
